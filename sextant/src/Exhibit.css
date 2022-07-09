@@ -5,8 +5,9 @@
     padding: 2vw 2vw 2vw 2vw;
     text-align: center;
     color: #000000;
-    background-color: #858585;
-    border: 0.25vw solid #c5c5c5;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 14%, rgba(0,212,255,1) 100%);
+border: 0.25vw solid #003cff;
     border-radius: 2vw;
 }
 
@@ -22,7 +23,8 @@
     font-weight: bold;
     font-size: 1.75vw;
     color: #000000;
-    background-color: #fffefe;
-    border: 0.25vw solid #a1a1a1;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 14%, rgba(0,212,255,1) 100%);
+    border: 0.25vw solid #003cff;
     border-radius: 2vw;
 }
